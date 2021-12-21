@@ -1,9 +1,6 @@
-package com.ekremsaglam.springboot.service.controller;
+package com.ekremsaglam.springboot.controller;
 
-import com.ekremsaglam.springboot.dto.ProductDetailDto;
 import com.ekremsaglam.springboot.dto.UserInfoDetailDto;
-import com.ekremsaglam.springboot.entity.Category;
-import com.ekremsaglam.springboot.entity.Product;
 import com.ekremsaglam.springboot.entity.UserInfo;
 import com.ekremsaglam.springboot.service.entityservice.UserInfoEntityService;
 import org.springframework.beans.factory.annotation.Autowired;

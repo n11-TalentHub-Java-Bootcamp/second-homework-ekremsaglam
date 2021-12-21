@@ -1,4 +1,4 @@
-package com.ekremsaglam.springboot.service.controller;
+package com.ekremsaglam.springboot.controller;
 
 import com.ekremsaglam.springboot.dto.ProductDetailDto;
 import com.ekremsaglam.springboot.entity.Category;
